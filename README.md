@@ -1,15 +1,36 @@
 # PixiJS 新人作業 DEMO
 - 計算機 https://aipinhsuan.github.io/pixijs/calculator/main.html
-- 球體物理運動 https://aipinhsuan.github.io/pixijs/sport/main.html
+- 運動軌跡模擬 https://aipinhsuan.github.io/pixijs/sport/main.html
 - 俄羅斯方塊 https://aipinhsuan.github.io/pixijs/tetris/main.html
 
 # 計算機說明
 製作電腦的小算盤，計算及記憶體存取。
-
-# 球體物理運動
-
+![計算機介面]()
+# 運動軌跡模擬
+*綠點為中心點*
+![運動軌跡模擬介面]()
+- 功能介紹：  
+  **Sprite Sheet：** 切換下一個新增的物件型態（圖形或飛機旋轉動畫）。  
+  **播放：** 播放運動軌跡。  
+  **暫停：** 暫停運動軌跡。  
+  **清除：** 清空物件，回到初始設定。  
+  **數量：** 增減物件數量。  
+  **速度：** 增減物件運動速度。  
+  **邊數：** 增減圖案物件的邊數。  
+  **FPS：** 增減FPS。  
+  **直線：** 隨機一個方向的直線運動。  
+  **拋物線：** 拋物線軌跡。  
+  **圓形：** 
+  **橢圓形：**
+  **正弦：**
+  **餘弦：**
+  **摩擦：**
+  **彈跳：**
+  **碰撞：**
+  
 
 # 俄羅斯方塊說明
+![俄羅斯方塊介面]()
 - 方塊種類：
   *每20個會出現一個特殊方塊*
   ![方塊種類]()
